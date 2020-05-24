@@ -1,5 +1,5 @@
 # Render_starter
-#### Basic Render APP - to get it out there
+#### Basic Render APP - to get it out there 
 
 You can test your changes locally by installing Docker and using the following command:
 ```
@@ -47,3 +47,6 @@ To run the app server locally, run this command in your terminal:
 
 If you have Docker installed, you can test your app in the same environment as Render’s by running the following command at the root of your repo:
 <code> docker build -t fastai-v3 . && docker run --rm -it -p 5000:5000 fastai-v3 </code>
+
+
+>> Aplikacja
